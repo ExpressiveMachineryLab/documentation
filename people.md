@@ -1,6 +1,6 @@
 # Who's who in the Expressive Machinery Lab
 
-## [Research staff](#research)
+## Research staff
 
 ### Brian Magerko, Lab leader, Director of Graduate Studies
 Slack: `@magerko`
@@ -17,7 +17,7 @@ Projects: Robot Improv Circus, MImE
 Slack: `@duri`
 Projects: LuminAI
 
-## [Admin staff](#admin)
+## Admin staff
 
 ### Michael Terrell
 Michael Terrell is a legendary admiinstrative superstar. As he is excellent, he is also in high demand. If you can't find answers on your own, no one you asks knows, or it's an emergency, contact Michael.
