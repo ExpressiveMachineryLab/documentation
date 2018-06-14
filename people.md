@@ -7,14 +7,17 @@ Slack: `@magerko`
 
 ### Astrid Bin, Postdoc
 Slack: `@astrid`
+
 Projects: TuneTable
 
 ### Mikhail Jacob, PhD student
 Slack: `@mikhail.jacob`
+
 Projects: Robot Improv Circus, MImE
 
 ### Duri Long, PhD student
 Slack: `@duri`
+
 Projects: LuminAI
 
 ## Admin staff
